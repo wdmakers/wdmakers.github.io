@@ -2,7 +2,7 @@ const jun2023 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center px-8 md:px-0">
-        <img src="/src/assets/deltarunewm-logo.png" className="!mt-20"></img>
+        <img src="/assets/deltarunewm-logo.png" alt="DeltaruneWM" className="!mt-20"></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-[50px] sm:text-[30px]">
           LETTER
           <span className="text-deltarune-gray md:text-[20px] mx-3">
@@ -11,7 +11,8 @@ const jun2023 = () => {
           NEWS
         </h1>
         <img
-          src="/src/assets/jun2023/Hedgehog.png"
+          src="/assets/jun2023/Hedgehog.png"
+          alt="A hedgehog riding a tiny red car"
           className="max-h-[80px] !mt-4"
         />
         <p className="self-start">Watchers And Wanderers.</p>
@@ -25,7 +26,8 @@ const jun2023 = () => {
           and changes that occurred.
         </p>
         <img
-          src="/src/assets/jun2023/TennaNotStonks.png"
+          src="/assets/jun2023/TennaNotStonks.png"
+          alt="Tenna from DeltaruneWM throwing his microphone baton in the ground while shouting 'NOT STONKS!!!'"
           className="max-h-[200px] "
         />
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-6">
@@ -42,7 +44,8 @@ const jun2023 = () => {
           Makers, recover our inspirations, and set down important plans.
         </p>
         <img
-          src="/src/assets/jun2023/MikeOnFire.png"
+          src="/assets/jun2023/MikeOnFire.png"
+          alt="Mike from DeltaruneWM doing a peace sign in front of a burning pile of papers"
           className="max-h-[200px] "
         />
         <p>
@@ -58,7 +61,7 @@ const jun2023 = () => {
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-6">
           WHAT'S UP WITH CHAPTER 3?
         </h2>
-        <img src="/src/assets/jun2023/TemCats.png" />
+        <img src="/assets/jun2023/TemCats.png" alt="A screenshot of Toby saying he put so many dogs in Undertale because Temmie liked dogs. Temmie answers saying she likes cats more now."/>
         <p className="self-start">Hmm.</p>
         <p>
           Funny stuff aside, we have done a few things for our Chapter 3, and
@@ -71,7 +74,8 @@ const jun2023 = () => {
           chapters.
         </p>
         <img
-          src="/src/assets/jun2023/DarkGang.png"
+          src="/assets/jun2023/DarkGang.png"
+          alt="Kris, Susie, Noelle, Jockington and Catti side to side wearing their Dark World outfits"
           className="max-h-[150px] "
         />
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-6">
@@ -95,7 +99,8 @@ const jun2023 = () => {
           to show. We believe you'll find it very interesting.
         </p>
         <img
-          src="/src/assets/jun2023/LilyLetter.png"
+          src="/assets/jun2023/LilyLetter.png"
+          alt="Lillian sitting with a lifeless posture next to a love letter"
           className="max-h-[200px] "
         />
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-6">
@@ -108,7 +113,8 @@ const jun2023 = () => {
           works we had started before the break.
         </p>
         <img
-          src="/src/assets/jun2023/ThuribleCalling.png"
+          src="/assets/jun2023/ThuribleCalling.png"
+          alt="Thurible in front of a bright entrance chanting 'CALLING ALL FOLLOWERS FOR THE DAILY COMMUNION'"
           className="max-h-[300px]"
         />
         <p>
@@ -124,7 +130,7 @@ const jun2023 = () => {
         </p>
         <p className="self-start">Thoughts and prayers,</p>
         <p className="self-start">The Wandering Makers Team</p>
-        <img src="/src/assets/jun2023/Eye.png" className="!mb-10 !mt-10" />
+        <img src="/assets/jun2023/Eye.png" alt="A titan's eye shines in the darkness." className="!mb-10 !mt-10" />
       </div>
     </section>
   );

@@ -99,7 +99,7 @@ li {
 }
 
 .grid-background {
-  background-image: url('/src/assets/q12025/grid.png');
+  background-image: url('/assets/q12025/grid.png');
   -webkit-mask: linear-gradient(
     transparent,
     #000 12%,

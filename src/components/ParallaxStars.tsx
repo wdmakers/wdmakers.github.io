@@ -33,21 +33,21 @@ const ParallaxStars: React.FC<{}> = () => {
       {' '}
       <img
         ref={star3Ref}
-        src="src/assets/q12025/stars_3.gif"
+        src="assets/q12025/stars_3.gif"
         alt="Estrelas camada 3"
         className="absolute max-w-full -z-20"
         style={{ top: '0px' }}
       />
       <img
         ref={star2Ref}
-        src="src/assets/q12025/stars_2.gif"
+        src="assets/q12025/stars_2.gif"
         alt="Estrelas camada 2"
         className="absolute max-w-full -z-20"
         style={{ top: '0px' }}
       />
       <img
         ref={star1Ref}
-        src="src/assets/q12025/stars_1.gif"
+        src="assets/q12025/stars_1.gif"
         alt="Estrelas camada 1"
         className="absolute max-w-full -z-20"
         style={{ top: '0px' }}

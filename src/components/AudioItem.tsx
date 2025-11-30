@@ -67,13 +67,13 @@ const AudioItem: React.FC<AudioItemProps> = ({ src, name, piano }) => {
           <button onClick={handleClick} className="cursor-pointer">
             {!isThisAudioPlaying ? (
               <img
-                src="src/assets/piano.png"
+                src="assets/piano.png"
                 className="hidden md:block !m-0"
                 alt="Play Piano"
               />
             ) : (
               <img
-                src="src/assets/piano_playing.gif"
+                src="assets/piano_playing.gif"
                 className="hidden md:block !m-0"
                 alt="Playing Piano"
               />

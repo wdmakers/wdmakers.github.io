@@ -19,8 +19,8 @@ const Q12025 = () => {
     <section className="flex justify-center relative ">
       <ParallaxStars />
       <div className="flex flex-col w-full max-w-[568px] items-center mt-20 md:mt-40 px-8 md:px-0">
-        <img src="/src/assets/newsletter_logo.gif" className=""></img>
-        <img src="/src/assets/q12025/shadowbosses.gif" className="!mt-10"></img>
+        <img src="/assets/newsletter_logo.gif" alt='DeltaruneWM Newsletter of the Discarded' className=""></img>
+        <img src="/assets/q12025/shadowbosses.gif" alt="Blossoms, Lillian, and Fraktur stand side by side. Lillian's neck trembles as a demonic hand reaches out to touch Magnolia, who, noticing, causes the hand to retreat inside Lillian." className="!mt-10"></img>
         <div>
           <p>Watchers and wanderers, </p>
           <p>
@@ -78,7 +78,7 @@ const Q12025 = () => {
           </p>
           <p>Please, take some time, and enjoy reading what we have to show.</p>
         </div>
-        <img src="/src/assets/q12025/annoyingsbs.gif"></img>
+        <img src="/assets/q12025/annoyingsbs.gif" alt="Jevil steals Susie's ax, who tries to retrieve it while Jevil jumps around, but to no avail. Spamton clings to Kris, pleading for Kromer."></img>
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           DISCORD SERVER
         </h2>
@@ -101,7 +101,7 @@ const Q12025 = () => {
             channel for communication, we can send out things at a higher
             variety (and less context) than before - like this, for instance:
           </p>
-          <img src="/src/assets/q12025/cungaderooffer.png"></img>
+          <img src="/assets/q12025/cungaderooffer.png" alt="A doodle by Spamton offering a burning tire to Mademoiselle while saying 'I offer YOU... MY ONCE in a LIFE-TIME CHILD!!! A 100% OFF. CUNGADERO SOUVENIR'"></img>
           <p className="text-center text-[14px] !-mt-4">by @beruki263</p>
           <p>
             Of course, this increases the possibility that we post content that
@@ -122,7 +122,7 @@ const Q12025 = () => {
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           THE GAME
         </h2>
-        <img src="/src/assets/q12025/ab_dw.png"></img>
+        <img src="/assets/q12025/ab_dw.png" alt="Kris, in their Abyss form, stands next to Susie, who looks confused."></img>
         <div>
           <p>Let's go over the game once more. </p>
           <p>
@@ -155,7 +155,7 @@ const Q12025 = () => {
             authored by other DELTARUNE fan-creators who collaborated with the
             team to bring their ideas to life!
           </p>
-          <img src="/src/assets/q12025/spamton_letter.gif"></img>
+          <img src="/assets/q12025/spamton_letter.gif" alt='Spamton slides to a trash can and finds an invitation.'></img>
         </div>
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           WHAT ABOUT THE PREVIOUS PREDICTION PROJECT?
@@ -176,7 +176,7 @@ const Q12025 = () => {
             Therefore, creating PotD also means creating for DELTARUNE · WM, in
             a sense. These two projects are deeply connected, after all…
           </p>
-          <img src="/src/assets/q12025/enemies_concept.png"></img>
+          <img src="/assets/q12025/enemies_concept.png" alt='A concept art page featuring a perfume stylist, a cat cook, an origami nun, an advertiser, a tsundere cactus, a snake in a boot, and a reel crocodile.'></img>
           <p className="text-center text-[14px] !-mt-4">by Lua</p>
           <p>
             Buuut, for the curious ones out there whose greatest wish is to know
@@ -229,7 +229,8 @@ const Q12025 = () => {
             </li>
           </ul>
           <img
-            src="/src/assets/q12025/startropolis_1.png"
+            src="/assets/q12025/startropolis_1.png"
+            alt='A bright and colorful city with Memphis-style decor.'
             className="!mt-6"
           ></img>
           <p className="text-center text-[14px] !-mt-4">by Marnie</p>
@@ -254,7 +255,7 @@ const Q12025 = () => {
             story, new locations and challenges, and an array of 3-5 dedicated
             “Shadowboss” segments.
           </p>
-          <img src="src/assets/q12025/silhouettes.png" />
+          <img src="assets/q12025/silhouettes.png" alt='Three shadowy silhouettes'/>
           <p>
             Our first launch will be marked as a “DEMO” version, and contain the
             very first Wave, starting off the story with 3 original
@@ -279,7 +280,7 @@ const Q12025 = () => {
             keep expanding our team to better adequate to the true scope of this
             game.
           </p>
-          <img src="src/assets/q12025/spamvil_attack.gif" />
+          <img src="assets/q12025/spamvil_attack.gif" alt='An attack by Spamton and Jevil in which both fire several projectiles from their faces. The yellow soul shoots at their facial features.'/>
           <p>Now then!</p>
           <p>Shall we share some of what we're working on?</p>
         </div>
@@ -289,12 +290,12 @@ const Q12025 = () => {
 
         <AudioItem
           name="♪ Fallen Sanctum"
-          src="/src/assets/q12025/audio/fallen_sanctum.wav"
+          src="/assets/q12025/audio/fallen_sanctum.wav"
           piano={true}
         />
 
         <p>"A small breath of respite from the crushing temple depths."</p>
-        <img src="src/assets/q12025/safeplace.png" className="!mt-10" />
+        <img src="assets/q12025/safeplace.png" alt='Kris and Susie sat in front of a statue of hands behind a save point in the middle of a lake of darkness overlaid by a light green mesh' className="!mt-10" />
         <p className="text-[14px] !-mt-4">by Snokie</p>
         <div className="flex flex-col">
           <p>Ah, the Pantheon.</p>
@@ -305,7 +306,7 @@ const Q12025 = () => {
             you will explore in Pantheon of the Discarded - look, it's in the
             name!
           </p>
-          <img src="src/assets/q12025/bridge.png" />
+          <img src="assets/q12025/bridge.png" alt='A gray bridge stands before two large statues of arms amidst vegetation, and a mountain spouts a geyser of darkness from its peak. The sky is covered by a green mesh'/>
           <p className="text-center text-[14px] !-mt-4">by Wilkus Milkus</p>
           <p>
             The Pantheon links itself to the many different universes out there,
@@ -316,7 +317,7 @@ const Q12025 = () => {
             Of course, that doesn't go without its own set of troubles - every
             little adventure, although short, is an ordeal in and of itself!
           </p>
-          <img src="src/assets/q12025/portals.gif" className="shrink grow-0" />
+          <img src="assets/q12025/portals.gif" alt='Kris and Susie face three portals with constantly shifting geometric shapes' className="shrink grow-0" />
           <p>
             Although, all the many different worlds and characters are only half
             of the Fun. The Pantheon itself is a bajillion times bigger and more
@@ -332,7 +333,7 @@ const Q12025 = () => {
             Not to mention, we've implemented a number of gameplay changes you
             might only get to see in this new, fate-breaking world…
           </p>
-          <img src="src/assets/q12025/atk.gif" className="self-center" />
+          <img src="assets/q12025/atk.gif" alt='Kris attacks with their sword with an uppercut, followed by a second attack.' className="self-center" />
         </div>
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           EVEN MORE CASTLE TOWN!?
@@ -340,14 +341,14 @@ const Q12025 = () => {
         
         <AudioItem
           name="♪ Your Castle Town"
-          src="/src/assets/q12025/audio/your_castle_town.wav"
+          src="/assets/q12025/audio/your_castle_town.wav"
           piano={true}
         />
 
         <p>"This cozy cheery home suddenly feels so empty..."</p>
-        <img src="src/assets/q12025/town.png" className="!mt-10" />
+        <img src="assets/q12025/town.png" alt='Kris and Susie stand in the middle of a Castle Town undergoing renovations' className="!mt-10" />
         <p>Still, you'll revisit some familiar places…</p>
-        <img src="src/assets/q12025/town_stairs.gif" className="!mt-10" />
+        <img src="assets/q12025/town_stairs.gif" alt='Kris and Susie climb a long staircase with several holes that reveal the skyline of Castle Town. Eventually, they pass through a large hole that makes the view even clearer' className="!mt-10" />
         <p>…and also uncover entirely unfamiliar ones.</p>
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           EVEN MORE WORLDS!?
@@ -355,16 +356,16 @@ const Q12025 = () => {
 
         <AudioItem
           name="♪ Startropolis"
-          src="/src/assets/q12025/audio/startropolis.wav"
+          src="/assets/q12025/audio/startropolis.wav"
           piano={true}
         />
 
         <p>"THIS is the future of TV!"</p>
-        <img src="src/assets/q12025/startropolis_2.png" className="!mt-10" />
+        <img src="assets/q12025/startropolis_2.png" alt="Two more drawings of the city in Memphis style. Toriel, Susie, and Kris are crossing the sidewalk in one of them." className="!mt-10" />
         <p>Peeks of journeys to be had, laying atop shining lights…</p>
-        <img src="src/assets/q12025/bigshotautos.png" className="!mt-10" />
+        <img src="assets/q12025/bigshotautos.png" alt="A dark car dealership with two cars and a sign that reads 'Big Shot Autos'. Through the window, you can see industries and pollution." className="!mt-10" />
         <p>…between forgotten shadows…</p>
-        <img src="src/assets/q12025/teastation.png" className="!mt-10" />
+        <img src="assets/q12025/teastation.png" alt='Kris walks through an abandoned train station with a tea theme. There are clocks shaped like teapots, tray chandeliers, and various pieces of broken porcelain scattered on the floor' className="!mt-10" />
         <p>…and in reaches far beneath.</p>
         <h2 className="font-pixel-bold text-deltarune-yellow text-center mb-10 mt-20 md:text-3xl sm:text-xl">
           EVEN MORE?
@@ -378,8 +379,8 @@ const Q12025 = () => {
         <div className="text-deltarune-green flex flex-col items-center text-center pixel-bold-group relative overflow-hidden w-screen">
           <div className="absolute inset-x-0 inset-y-0 grid-background opacity-20 z-0"></div>
           <img
-            src="src/assets/q12025/h.gif"
-            alt="Background visual"
+            src="assets/q12025/h.gif"
+            alt="A hand made of green mesh moving slightly"
             className="absolute mix-blend-mode-screen md:top-[1350px] top-[1250px] left-[50%] -z-10 -translate-x-[50%]"
           />
           <div className="z-10 flex flex-col w-full max-w-[568px] items-center mt-20 md:mt-40 px-8 md:px-0">
@@ -391,7 +392,7 @@ const Q12025 = () => {
                 <p className="!mb-0">{H}</p>
                 <AudioItem
                   name={'h'}
-                  src="/src/assets/q12025/audio/h.wav"
+                  src="/assets/q12025/audio/h.wav"
                   piano={false}
                 />
               </>
@@ -427,7 +428,8 @@ const Q12025 = () => {
           <p>Stay tuned!</p>
         </div>
         <img
-          src="src/assets/q12025/mysteriousitem.gif"
+          src="assets/q12025/mysteriousitem.gif"
+          alt='A mysterious, glowing item shines in the darkness'
           className="!mt-30 !mb-20 md:h-[100px]"
         />
       </div>
