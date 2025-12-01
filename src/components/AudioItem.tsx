@@ -61,7 +61,7 @@ const AudioItem: React.FC<AudioItemProps> = ({ src, name, piano }) => {
 
   return (
     <div>
-      {name !== 'h' && <p className="text-center !mb-0">{name}</p>}
+      {name !== 'h' && <p className={`text-center !mb-0 font-pixel-bold ${isThisAudioPlaying ? "text-white" : "text-deltarune-gray"}`}>{name}</p>}
       <div className="flex items-center mb-2 mt-4 ">
         {piano && (
           <button onClick={handleClick} className="cursor-pointer">

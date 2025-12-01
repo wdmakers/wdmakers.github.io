@@ -219,8 +219,14 @@ const Summer2025 = () => {
           src="/assets/december2025/audio/con_town.wav"
           piano={true}
           />
-        <p className='text-center'>"The most perfect town of the most perfect world ever!"</p>
+        <p className='text-center font-pixel'>"The most perfect town of the most perfect world ever!"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Eribetra</span></p>
+        <img
+        src="/assets/december2025/ConTown.png"
+        alt='Kris and Susie walk along a sidewalk in front of a garage sale in a cozy town. Items like clothing, radios, books, antennas, a bicycle, and even a rubber duckie are for sale. Interestingly, the roof of the house and garage are covered in aluminum foil'
+        className="max-h-[400px] mx-auto mb-20"
+        ></img>
+
         <AudioItem
           name="♪ Sorry, We're Open"
           src="/assets/december2025/audio/sorry_were_open.wav"
@@ -228,15 +234,43 @@ const Summer2025 = () => {
           />
         <p className='text-center'>"It's a picture of a business man next to his red car."</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Creepabotinc</span></p>
-                <AudioItem
+        <img
+        src="/assets/december2025/BigShotAutos.png"
+        alt='Susie watches a modern building in the distance. Its sign reads "Big Shot Autos"'
+        className="max-h-[175px] mx-auto mb-20"
+        ></img>
+
+
+        
+        <AudioItem
           name="♪ RING AROUND TOWN"
           src="/assets/december2025/audio/ring_around_town.wav"
           piano={true}
           />
         <p className='text-center'>"WHY are you here!?? What the hell is THAT!??"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Conno02</span></p>
+        <img
+        src="/assets/december2025/NiceShot.gif"
+        alt='Jevil prepares to throw Spamton like a golf ball. Spamton explodes on impact with the club'
+        className="max-h-[250px] mx-auto mb-20"
+        ></img>            
+        
+        <AudioItem
+          name="♪ Omen"
+          src="/assets/december2025/audio/omen.wav"
+          piano={true}
+          />
+        <p className='text-center'>"Here, your foes will not be so easily persuaded."</p>
+        <p className="text-center text-[14px] !-mt-6">by <span className='underline'>OnlyAReina</span></p>
+        <img
+        src="/assets/december2025/AbyssIdles.gif"
+        alt='Idle animations for Kris and Susie while battling in the Abyss'
+        className="max-h-[150px] mx-auto"
+        ></img>    
+
+        
         <div className='text-left'>
-          <p>
+          <p className='my-20'>
             Now for some characters.
           </p>
           <img
