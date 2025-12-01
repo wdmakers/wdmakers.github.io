@@ -219,21 +219,21 @@ const Summer2025 = () => {
           src="/assets/december2025/audio/con_town.wav"
           piano={true}
           />
-        <p>"The most perfect town of the most perfect world ever!"</p>
+        <p className='text-center'>"The most perfect town of the most perfect world ever!"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Eribetra</span></p>
         <AudioItem
           name="♪ Sorry, We're Open"
           src="/assets/december2025/audio/sorry_were_open.wav"
           piano={true}
           />
-        <p>"It's a picture of a business man next to his red car."</p>
+        <p className='text-center'>"It's a picture of a business man next to his red car."</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Creepabotinc</span></p>
                 <AudioItem
           name="♪ RING AROUND TOWN"
           src="/assets/december2025/audio/ring_around_town.wav"
           piano={true}
           />
-        <p>"WHY are you here!?? What the hell is THAT!??"</p>
+        <p className='text-center'>"WHY are you here!?? What the hell is THAT!??"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Conno02</span></p>
         <div className='text-left'>
           <p>
