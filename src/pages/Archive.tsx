@@ -10,6 +10,15 @@ const Archive = () => {
         </h1>
         <div>
           <NavLink
+            to="/september2026"
+            className="block hover:opacity-90 max-w-sm mb-24"
+          >
+            <h2 className="text-xl text-yellow-300">ISSUE 4 - September 2026</h2>
+            <p className="!font-pixel-bold">
+              Spring changed to summer, and summer changed to cold.
+            </p>
+          </NavLink>
+          <NavLink
             to="/december2025"
             className="block hover:opacity-90 max-w-sm mb-24"
           >
