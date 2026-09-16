@@ -136,7 +136,7 @@ const Sept2026 = () => {
           <div className='w-[568px]'>
             <p >Let us piece these broken dreams</p>
             <p>and open the way to a new one</p>
-            <p>so that our dreams may be neverending.</p>
+            <p>so that it may be neverending.</p>
           </div>
         </div>
       </div>  
