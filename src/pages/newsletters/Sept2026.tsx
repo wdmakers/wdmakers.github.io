@@ -80,7 +80,7 @@ const Sept2026 = () => {
           src="/assets/sept2026/audio/brutal_blade.wav"
           piano={true}
         />
-        <p className="text-center text-[14px]">Composed by OnlyAReina</p>
+        <p className="text-center text-[14px]">Composed by Caramelsgr and OnlyAReina</p>
         <div className='mt-10'>
           <p>How about it?</p>
           <p>The battle song will be out soon in our 
